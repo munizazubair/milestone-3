@@ -1,4 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FrameWorld
+
+FrameWorld is a dynamic blogging platform built using **Next.js** . This project displays multiple blog posts, each with an image, description, like functionality, comments section, and follow button. The blog posts are dynamically rendered using Next.js routing and state management in React.
+
+## Features
+- **Dynamic Routing**: Post content is rendered dynamically using Next.js routes.
+- **Likes System**: Users can like each post, with a visual update of the like count.
+- **Follow Button**: Users can follow authors and toggle between "Follow" and "Following".
+- **Save Button**: Users can save posts to keep track of their favorite content.
+- **Comments Section**: Each post has a comments section that can be toggled open or closed.
+- **Responsive Layout**: The design adjusts based on screen size, providing an optimal view on mobile and desktop devices.
+
+## Technologies Used
+- **Next.js** for server-side rendering and routing.
+- **React** for component-based structure and state management.
+- **Tailwind CSS** for styling.
+
+
+
+
+
+- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
